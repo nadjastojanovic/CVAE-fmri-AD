@@ -4,8 +4,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-[![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](#)
-[![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)](#)
+![Scikit-learn](https://img.shields.io/badge/-scikit--learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-4DABCF?style=for-the-badge&logo=numpy&logoColor=fff)
 ![nilearn](https://img.shields.io/badge/nilearn-53696A?style=for-the-badge)
 
 </div>
